@@ -1,4 +1,4 @@
-| Name | Exp |
+
 
 # DWM
 ## Exp 6
